@@ -1,4 +1,4 @@
-# FireSat-Lite:A Deep Learning Wildfire Detection Model
+# FireSat-Lite: A Deep Learning Wildfire Detection Model
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/karlbuscheck/firesat-lite/blob/main/firesat_lite.ipynb)
 
