@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-Inspired by Google’s [FireSat](https://blog.google/technology/research/first-firesat-images/), this project builds and compares deep learning architectures to detect wildfires (Fire, Smoke, Non-Fire) using the 43K image [FireEye](https://www.kaggle.com/datasets/amerzishminha/forest-fire-smoke-and-non-fire-image-dataset) dataset.
+Inspired by Google’s [FireSat](https://blog.google/technology/research/first-firesat-images/), this project builds and compares deep learning architectures to detect wildfires (Fire, Smoke, and Non-Fire) using the 43K image [FireEye](https://www.kaggle.com/datasets/amerzishminha/forest-fire-smoke-and-non-fire-image-dataset) dataset.
 
 To ensure **rigorous and unbiased results**, the entire modeling process adheres to strict machine learning best practices, including using global random seeds for reproducibility, dedicated train/validation/test splits, and strategic **EarlyStopping** to combat overfitting. The final, best-performing model achieved a highly competitive and unbiased **95.30% Test Accuracy**.
 
